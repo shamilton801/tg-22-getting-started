@@ -1,0 +1,7 @@
+cyberchase
+numpy
+pandas
+scipy
+scikit-learn
+perlin-noise
+pygame
